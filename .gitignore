@@ -6,3 +6,4 @@
 *.rar
 *.json
 *.txt
+!requirements.txt
